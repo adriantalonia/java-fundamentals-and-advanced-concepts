@@ -134,3 +134,6 @@ A matrix with 9 elements is shown below.
     can search the key in O(M) time. However, the penalty is on Trie storage requirements.
 
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Trie.png)
+
+
+https://www.geeksforgeeks.org/data-structures/?ref=lbp
