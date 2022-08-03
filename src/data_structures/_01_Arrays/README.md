@@ -145,11 +145,11 @@ public class multiDimensional {
 
 ## Arrays Types and Their Allowed Element Types
 
-| Array Types  | Allowed Element Types  |
-|---|---|
-|  Primitive Type Arrays | Any type which can be implicitly promoted to declared type.  |
-| Object Type Arrays  | Its child-class objects are allowed.  |
-| Abstract Class Type Arrays  | Its child-class objects are allowed.  |
-| Interface Type Arrays  | Its implementation class objects are allowed.  |
+| Array Types                | Allowed Element Types                                       |
+|----------------------------|-------------------------------------------------------------|
+| Primitive Type Arrays      | Any type which can be implicitly promoted to declared type. |
+| Object Type Arrays         | Its child-class objects are allowed.                        |
+| Abstract Class Type Arrays | Its child-class objects are allowed.                        |
+| Interface Type Arrays      | Its implementation class objects are allowed.               |
 
 https://www.geeksforgeeks.org/arrays-in-java/

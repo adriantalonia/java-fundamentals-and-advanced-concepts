@@ -1,5 +1,7 @@
 ## Data Structures
 
+![image](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/03/data-structure-classification-in-java.jpg)
+
 > A data structure is a particular way of organizing data in a computer so that it can be used effectively.
 
 ### WHAT IS DATA STRUCTURE :
